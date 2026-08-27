@@ -77,3 +77,5 @@
     application-local.properties
     application-local.yml
     application-local.yaml
+config.bat
+node_modules
